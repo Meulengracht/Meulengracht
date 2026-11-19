@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋
 
 <!--
 **Meulengracht/Meulengracht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=meulengracht&theme=github_dark" alt="Meulengracht's github stats" />
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=meulengracht&theme=github_dark" alt="Meulengracht's top languages" />
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=meulengracht&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=meulengracht&theme=github_dark)
